@@ -1,6 +1,7 @@
 <div align="center">
 
-![Readme_banner](https://github.com/Raguerrebere17/Templates/assets/124218286/59a497fa-1321-4854-ac4c-30cf4d4e2716)
+![Readme_banner](https://github.com/Raguerrebere17/Templates/assets/124218286/e528ebb8-2d97-455c-a767-7736bd12b6b8)
+  
 <h1> Readme Template </h1>
 <p>This template was created by</p>
 
