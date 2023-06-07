@@ -2,7 +2,6 @@
 
 <img src="https://apply.holbertonschool.com/holberton-logo.png" />
 <h1> Readme Template </h1>
-<p>This template was created by @vandriodd</p>
 
 > This repository contains ...
 
