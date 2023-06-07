@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://apply.holbertonschool.com/holberton-logo.png" />
+![Readme_banner](https://github.com/Raguerrebere17/Templates/assets/124218286/e528ebb8-2d97-455c-a767-7736bd12b6b8)
+  
 <h1> Readme Template </h1>
 
 > This repository contains ...
@@ -50,6 +51,6 @@ Placeholder
 
 <br>
 
-_Last updated: May 8, 2023_
+_Last updated: May 23, 2023_
 
 </div>
